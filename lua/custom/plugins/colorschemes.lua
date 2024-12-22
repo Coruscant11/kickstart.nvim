@@ -15,8 +15,8 @@ return {
     priority = 1000,
     init = function()
       -- vim.g.adwaita_darker = true
-
-      vim.cmd.colorscheme 'adwaita'
+      --
+      vim.cmd.colorscheme 'tokyonight'
     end,
   },
 }
